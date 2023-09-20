@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external-d84e6fbb28fa4fe794fad11ba7b1fe56
+  name: Quantum Information Science I, Part 1
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/about
+  weight: 10
+- identifier: external-2e47f2b827904da28433375dc145c0a7
+  name: Quantum Information Science I, Part 2
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.2x+1T2018/about
+  weight: 20
+- identifier: external-1b71cee947774270ba2727a796129a60
+  name: Quantum Information Science I, Part 3
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.3x+1T2018/about
+  weight: 30
